@@ -1,17 +1,17 @@
 Go, A simple introduction
-April 30, 2015
+December 20, 2015
 
-fzerorubigd
-@fzerorubigd
-fzero@rubi.gd
-http://fzero.rubi.gd
+Ali Kabiri
+@superus8r
+ali@kabiri.org
+http://kabiri.org
 
 * Hello, World!
 
 .play tehlug/hello.go
 
 .image tehlug/bita.jpg 300 300
-.caption _Gopher_ by bita
+.caption _Gopher_
 
 * The Go programming language
 
